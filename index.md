@@ -1,3 +1,3 @@
-## Welkom bij de Github Page van Werner
+## KhanZi
 
-Werner is Scout, maar vindt het daar naast leuk om bezig te zijn met technologie en het maken van handige web applicaties.
+Welkom op [khanzi.nl](https://khanzi.nl), het digitale thuis van Werner Veldman.
