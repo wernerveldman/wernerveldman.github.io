@@ -1,3 +1,3 @@
-## KhanZi
+## Nachtzwaluw.com
 
-Welkom op [khanzi.nl](https://khanzi.nl), het digitale thuis van Werner Veldman.
+Welkom op [Nachtzwaluw.com](https://nachtzwaluw.com), het digitale thuis van Werner Veldman.
