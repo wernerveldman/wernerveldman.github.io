@@ -1,3 +1,1 @@
-## wernerveldman.nl
-
-Welkom op [wernerveldman.nl](https://wernerveldman.nl), het digitale thuis van Werner Veldman.
+Welkom op de Github Pages van Werner Veldman
